@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo 'testing page';
+        echo 'testing page for github';
         ?>
     </body>
 </html>
