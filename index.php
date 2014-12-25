@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo 'testing page for github this is rest sadf 123456454';
+        echo 'testing page for github this is resting ';
         ?>
     </body>
 </html>
